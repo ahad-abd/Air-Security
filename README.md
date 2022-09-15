@@ -2,6 +2,8 @@
 INTRODUCTION 
 
 Bar Coded Boarding Pass (BCBP) started as a project as part of the Simplifying the Business program. With the elimination of paper tickets, the boarding document does not carry a flight coupon anymore. This allows a more flexible format for the boarding pass. The passenger can now print a boarding pass at home, as the document can be printed on simple paper. Passengers can either go to the “bag drop” area or bypass the check-in desks and go directly to security. 
+![air](https://user-images.githubusercontent.com/73180663/190450837-777d9f3d-d879-4251-917d-26629430cd4b.png)
+
 
 ![MergeResult_2022_09_15_03_48_15](https://user-images.githubusercontent.com/73180663/190449334-b25c182a-efcd-4fb0-999b-398e8699f832.jpg)
 
