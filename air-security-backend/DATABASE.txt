@@ -1,0 +1,17 @@
+[command]/home/runner/work/_temp/6ffb0153-4adb-4b37-bd4d-0d31031e6902/terraform-bin output
+db_instance_name = "huex-mysql"
+db_name = "air-security"
+db_password = "qDWu7kn?=1&qXxEt"
+db_port = "3306"
+db_private_ip = "10.109.178.47"
+db_username = "air-security-user"
+::debug::Terraform exited with code 0.
+::debug::stdout: db_instance_name = "huex-mysql"%0Adb_name = "air-security"%0Adb_password = "qDWu7kn?=1&qXxEt"%0Adb_port = "3306"%0Adb_private_ip = "10.109.178.47"%0Adb_username = "air-security-user"%0A
+::debug::stderr: 
+::debug::exitcode: 0
+
+::set-output name=stdout::db_instance_name = "huex-mysql"%0Adb_name = "air-security"%0Adb_password = "qDWu7kn?=1&qXxEt"%0Adb_port = "3306"%0Adb_private_ip = "10.109.178.47"%0Adb_username = "air-security-user"%0A
+
+::set-output name=stderr::
+
+::set-output name=exitcode::0
